@@ -6,3 +6,17 @@ In this Challenge, we used Python, Pandas, and Jupyter notebooks to do the extra
 
 ### Crowdfunding Schema
 ![crowdfunding_db_schema](https://user-images.githubusercontent.com/47859209/196857645-7647950c-7de7-454f-97cb-8792bdb5675b.png)
+
+### Reordered our backers table and split the names column into first and last names
+![reordered_backers](https://user-images.githubusercontent.com/47859209/196858048-b74c1d8c-74aa-45f8-aa97-64aac9e36693.png)
+
+### Wrote an SQL Query table and named it email contacts
+![email_contacts](https://user-images.githubusercontent.com/47859209/196858329-0d148620-fcae-4f5f-971f-3e3a318a2e6f.png)
+
+
+### Wrote another SQL Query table and named it email backers, containing email addresses of the backers in descending order, the first and the last name of each backer, the cf_id, the company name, the description, the end date of the campaign, and the remaining amount of the campaign goal as "Left of Goal".
+![email_backers](https://user-images.githubusercontent.com/47859209/196858889-cff353e5-5e1d-407d-a80a-e86320cab99b.png)
+
+
+## Conclusion
+- We were able to assist Independent Funding and Britta with the help they needed by completing the ETL process 
